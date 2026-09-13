@@ -16,10 +16,10 @@ public class code3 {
             System.out.println(b + " is larger");
         }
 
-        int a = 25;
-        int b = 40;
+        int c = 25;
+        int d = 40;
 
-        if (a > b) {
+        if (c > d) {
             System.out.println(a + " is larger");
         } else {
             System.out.println(b + " is larger");
