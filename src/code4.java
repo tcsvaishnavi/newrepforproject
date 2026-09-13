@@ -8,5 +8,6 @@ public class code4 {
         } else {
             System.out.println("Odd number");
         }
+        int salary = 60000;
     }
 }
